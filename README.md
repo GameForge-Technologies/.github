@@ -2,6 +2,5 @@
 # The PH Group
 ***
 ### Projects:
-> Interstellar
-> 
-> PHos
+* Interstellar
+* PHos
